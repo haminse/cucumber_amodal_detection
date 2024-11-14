@@ -1,4 +1,4 @@
-# Cucumber Amodal Detection project (feat. AISFormer)
+# Cucumber Amodal Segmentation project (feat. AISFormer)
 
 You can find the original codes here : https://github.com/UARK-AICV/AISFormer
 
