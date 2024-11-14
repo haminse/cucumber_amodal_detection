@@ -1,0 +1,21 @@
+#cachefiles
+.cache
+.config
+.dotnet
+.gnupg
+.ipython
+.local
+.nv
+.vscode-server
+.bash_logout
+.bashrc
+.profile
+.python_history
+.sudo_as_admin_successful
+.wget-hsts
+
+#data folder
+data
+
+#legacy
+detectron2_repo

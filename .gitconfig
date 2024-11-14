@@ -1,0 +1,6 @@
+[user]
+	name = haminse
+	email = haminse@naver.com
+[credential]
+	helper = "!f() { /home/ms/.vscode-server/bin/912bb683695358a54ae0c670461738984cbb5b95/node /tmp/vscode-remote-containers-b98e51a0-638f-4da3-a7c5-6c7cdd62d077.js git-credential-helper $*; }; f"
+
