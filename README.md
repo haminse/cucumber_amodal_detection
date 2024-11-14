@@ -58,10 +58,11 @@ pip install -r requirements.txt
 We provide the docker file [here](https://drive.google.com/file/d/1UOr-kqpohDl_GZ99MSMo4PyEdW_NxsL4/view?usp=sharing) for Ubuntu 20.04 with CUDA=11.3, A6000 GPU with python=3.8 setup. You can modify the docker file if the requirements.txt does not work. (And I am pretty sure it will not...)
 
 ## Run Models
+Please change the file paths in the .sh files for your local setup.
+
 
 ### Run sample demo for images
 
-Please change the file paths in the .sh files for your local setup.
 
 ```
 bash scripts/demo.sh
