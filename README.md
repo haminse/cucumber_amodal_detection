@@ -61,6 +61,8 @@ We provide the docker file [here](https://drive.google.com/file/d/1UOr-kqpohDl_G
 
 ### Run sample demo for images
 
+Please change the file paths in the .sh files for your local setup.
+
 ```
 bash scripts/demo.sh
 ```
