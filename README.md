@@ -78,6 +78,6 @@ bash scripts/test.sh
 ```
 
 ### To Do
-- Fix MAP calculation code for training / test (DB)
+- Fix MAP code for training / test (DB)
 - Custom dataset registration (MS)
 - Cucumber dataset annotation generation (CY&HJ)
